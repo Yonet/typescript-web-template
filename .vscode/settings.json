@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "[Winter is Coming (Dark Blue)]": {
+            "editorIndentGuide.background": "#91ff00",
+            "debugToolBar.background": "#ff00bf",
+            "tab.lastPinnedBorder": "#fbff00",
+            "tab.activeBackground": "#0084ff"
+        }
+    },
+    "peacock.color": "#007fff",
+    "git.ignoreLimitWarning": true
+}

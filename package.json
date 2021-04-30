@@ -1,0 +1,26 @@
+{
+  "name": "typescript-web-template",
+  "version": "1.0.0",
+  "description": "Simple TypeScript project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "npx webpack",
+    "hello": "node dist/bundle.js",
+    "start": "webpack serve --config webpack.config.js --open"
+  },
+  "keywords": [],
+  "author": "Ayşegül Yönet",
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.1.1",
+    "typescript": "^4.2.4",
+    "webpack": "^5.36.1",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
